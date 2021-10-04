@@ -37,7 +37,7 @@
     {
         "courseName": "Business Statistics",
         "id": 3144454,
-        "img": "http://partner.mediumra.re/img/service1.jpg",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_Is_Business_Analysis_And_Why_Every_Company_Needs_A_Business_Analyst.jpg",
         "duration": "2months",
         "price": "3000tk"
     },
@@ -51,14 +51,14 @@
     {
         "courseName": "Intermediate of Accounting",
         "id": 3144452,
-        "img": "http://partner.mediumra.re/img/service1.jpg",
+        "img": "https://textbooks.cx/wp-content/uploads/2021/06/Intermediate-Accounting-10th-Edition-eBook.jpg",
         "duration": "3months",
         "price": "3000tk"
     },
     {
         "courseName": "Advanced of Accounting",
         "id": 3144451,
-        "img": "https://textbooks.cx/wp-content/uploads/2021/06/Intermediate-Accounting-10th-Edition-eBook.jpg",
+        "img": "https://www.readyratios.com/upload/iblock/0b6/accounting.jpg",
         "duration": "3.5months",
         "price": "4000tk"
     }

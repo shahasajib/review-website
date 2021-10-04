@@ -1,0 +1,13 @@
+.about-text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.article-text{
+    font-size: medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+    margin: 50px;
+    margin-top: 5px;
+}
+.guiding{
+text-align: center;
+}

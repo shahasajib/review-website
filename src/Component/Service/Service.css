@@ -2,6 +2,14 @@
    margin: 20px;
 }
 .img{
-    width: 365px;
+    width: 337px;
     height: 250px;
+}
+.service-header-text{
+    margin-top: 5px;
+    font-size: large;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.card-text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
 }

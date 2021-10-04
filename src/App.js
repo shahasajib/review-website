@@ -12,6 +12,7 @@ import Service from './Component/Service/Service';
 import Teachers from './Component/Teachers/Teachers';
 import About from './Component/About/About';
 import Error from './Component/NotFound/Error';
+import Footer from './Component/Footer/Footer';
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
             <Error></Error>
           </Route>
         </Switch>
+        <Footer />
       </Router>
     </div>
   );
